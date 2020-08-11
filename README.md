@@ -61,10 +61,6 @@
 
 ---
 
-<a href="https://github.com/heynik/heynik">
-  <img align="left" alt="Heynik's Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=heynik&repo=heynik&theme=dark" />
-</a>
-
 
 [twitter]: https://twitter.com/Heynik27
 [linkedin]: https://www.linkedin.com/in/nikhil-yadav-5a0a58134/
