@@ -53,13 +53,12 @@
 
 <img align="left" alt="Heynik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=heynik&theme=tokyonight&show_icons=true&hide_border=true" />
 
-
+<br />
 
 <img align="left" alt="Heynik's Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heynik&theme=blue-green&show_icons=true&hide_border=true" />
 
 <br />
 
----
 
 
 [twitter]: https://twitter.com/Heynik27
