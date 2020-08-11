@@ -56,6 +56,10 @@
 
 <img align="left" alt="Heynik's Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heynik&theme=blue-green&show_icons=true&hide_border=true" />
 
+<a href="https://github.com/heynik/heynik">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=heynik&repo=heynik&theme=dark" />
+</a>
+
 
 [twitter]: https://twitter.com/Heynik27
 [linkedin]: https://www.linkedin.com/in/nikhil-yadav-5a0a58134/
