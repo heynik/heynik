@@ -54,7 +54,10 @@
 <img align="left" alt="Heynik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=heynik&theme=tokyonight&show_icons=true&hide_border=true" />
 
 
+
 <img align="left" alt="Heynik's Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heynik&theme=blue-green&show_icons=true&hide_border=true" />
+
+---
 
 <a href="https://github.com/heynik/heynik">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=heynik&repo=heynik&theme=dark" />
