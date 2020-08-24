@@ -41,11 +41,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows 10 Free Activation](https://medium.com/cyberxerx/windows-10-free-activation-5d3fa53c7d30?source=rss-ef116ef8f6f6------2)
+- [Activate Microsoft Office 2016 without Product Key](https://medium.com/cyberxerx/activate-microsoft-office-2016-without-product-key-f1d2634f41f1?source=rss-ef116ef8f6f6------2)
 - [METASPLOIT Framework Introduction](https://medium.com/cyberxerx/metasploit-framework-introduction-b25c0f9ded37?source=rss-ef116ef8f6f6------2)
 - [Fully Anonymous Yourself by Tails OS](https://medium.com/cyberxerx/fully-anonymous-yourself-by-tails-os-e50d119e27e?source=rss-ef116ef8f6f6------2)
 - [How to Setup PROXYCHAINS in Kali-Linux by Terminal](https://medium.com/cyberxerx/how-to-setup-proxychains-in-kali-linux-by-terminal-618e2039b663?source=rss-ef116ef8f6f6------2)
-- [Hands-on Ethical Hacking: Hack Window login in just a few steps](https://medium.com/cyberxerx/hands-on-ethical-hacking-hack-window-login-in-just-a-few-steps-1f16f11924ec?source=rss-ef116ef8f6f6------2)
-- [Tryhackme | Advent of Cyber](https://medium.com/cyberxerx/tryhackme-advent-of-cyber-b050c7aa86f2?source=rss-ef116ef8f6f6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
