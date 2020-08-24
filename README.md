@@ -41,11 +41,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [USING EXPLOITS IN METASPLOIT: Part 5](https://medium.com/cyberxerx/using-exploits-in-metasploit-part-5-e76929c132d0?source=rss-ef116ef8f6f6------2)
 - [ACTIVE AND PASSIVE EXPLOITS IN METASPLOIT: Part 4](https://medium.com/cyberxerx/active-and-passive-exploits-in-metasploit-part-4-c4f86c7f0f0e?source=rss-ef116ef8f6f6------2)
 - [METASPLOIT MSFCONSOLE: Part 3](https://medium.com/cyberxerx/metasploit-msfconsole-part-3-95aae118c8a7?source=rss-ef116ef8f6f6------2)
 - [METASPLOIT FUNDAMENTALS: Part 2](https://medium.com/cyberxerx/metasploit-fundamentals-part-2-43f1a70b9471?source=rss-ef116ef8f6f6------2)
 - [Learn PHP & Project free and get certification on completion. Progate GIT Learning Challenge](https://medium.com/cyberxerx/learn-php-project-free-and-get-certification-on-completion-progate-git-learning-challenge-837b7f9e5500?source=rss-ef116ef8f6f6------2)
-- [Activate Windows 10 free Using a batch file](https://medium.com/cyberxerx/activate-windows-10-free-using-a-batch-file-4531aa04cecd?source=rss-ef116ef8f6f6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
