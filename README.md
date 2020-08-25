@@ -41,11 +41,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Web cache poisoning, Part 1](https://medium.com/cyberxerx/introduction-to-web-cache-poisoning-part-1-fe23c35be89e?source=rss-ef116ef8f6f6------2)
 - [Setup Free VPN: OpenVPN for Windows 10](https://medium.com/cyberxerx/setup-free-vpn-openvpn-for-windows-10-d3e7a1b0b889?source=rss-ef116ef8f6f6------2)
 - [USING EXPLOITS IN METASPLOIT: Part 5](https://medium.com/cyberxerx/using-exploits-in-metasploit-part-5-e76929c132d0?source=rss-ef116ef8f6f6------2)
 - [ACTIVE AND PASSIVE EXPLOITS IN METASPLOIT: Part 4](https://medium.com/cyberxerx/active-and-passive-exploits-in-metasploit-part-4-c4f86c7f0f0e?source=rss-ef116ef8f6f6------2)
 - [METASPLOIT MSFCONSOLE: Part 3](https://medium.com/cyberxerx/metasploit-msfconsole-part-3-95aae118c8a7?source=rss-ef116ef8f6f6------2)
-- [METASPLOIT FUNDAMENTALS: Part 2](https://medium.com/cyberxerx/metasploit-fundamentals-part-2-43f1a70b9471?source=rss-ef116ef8f6f6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
