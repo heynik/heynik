@@ -2,7 +2,6 @@
 
 - 🔭 Software Engineer
 
-- 🌱 I’m currently learning CyberSecurity
 
 
 
