@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Nikhil Yadav — Software Engineer</title>
+  <meta name="description" content="Nikhil Yadav — Software Engineer. Full-stack developer, cloud & infra, Azure, .NET, React." />
+  <style>
+    /* Reset & base */
+    :root{--bg:#0b1220;--panel:#071428;--muted:#9fb3c8;--accent:#0078d4;--glass:rgba(255,255,255,0.03)}
+    *{box-sizing:border-box}html,body{min-height:100vh}body{margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial;color:#eaf2fb;background:radial-gradient(1600px 900px at 8% 10%,rgba(0,120,212,0.10),transparent 18%),radial-gradient(1400px 900px at 92% 80%,rgba(0,80,120,0.06),transparent 20%),linear-gradient(180deg,#041224 0%, #071026 70%);-webkit-font-smoothing:antialiased}
+    a{color:inherit}
+
+    /* Page layout */
+    .wrap{max-width:1100px;margin:36px auto;padding:24px}
+    header{display:flex;align-items:center;justify-content:space-between;gap:16px}
+    .brand{display:flex;align-items:center;gap:14px}
+    .avatar{width:64px;height:64px;border-radius:12px;background:linear-gradient(135deg,var(--accent),#00b6ff);display:flex;align-items:center;justify-content:center;font-weight:700;color:#022330;box-shadow:0 8px 30px rgba(0,0,0,0.6)}
+    h1{font-size:1.6rem;margin:0}
+    .sub{color:var(--muted);font-size:.95rem}
+
+    /* Grid */
+    .grid{display:grid;grid-template-columns:1fr 360px;gap:22px;margin-top:22px}
+    .panel{background:rgba(6,14,24,0.78);padding:20px;border-radius:12px;border:1px solid rgba(255,255,255,0.04);backdrop-filter:blur(6px);position:relative;z-index:2;box-shadow:0 10px 30px rgba(3,8,16,0.6)}
+
+    /* Hero */
+    .hero{padding:18px;border-radius:12px;background:linear-gradient(90deg,rgba(255,255,255,0.02),rgba(255,255,255,0.01));display:flex;align-items:center;gap:18px}
+    .hero-left{flex:1}
+    .lead{color:var(--muted);margin-top:8px}
+    .socials{display:flex;gap:10px;margin-top:14px}
+    .social{display:inline-flex;align-items:center;gap:8px;padding:8px 12px;border-radius:10px;background:var(--glass);border:1px solid rgba(255,255,255,0.03);text-decoration:none;color:inherit;transition:transform .18s ease,box-shadow .18s ease}
+    .social:hover{transform:translateY(-4px);box-shadow:0 10px 30px rgba(0,0,0,0.5)}
+
+    /* Sections */
+    h2{margin:0 0 8px 0}
+    .section{margin-top:18px}
+    ul{margin:0;padding-left:18px}
+
+    /* Badges */
+    .badges{display:flex;gap:8px;flex-wrap:wrap}
+    .badges img{height:22px}
+
+    /* Skills grid */
+    .skills{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+    .skill{display:flex;flex-direction:column}
+    .meter{height:8px;background:rgba(255,255,255,0.04);border-radius:8px;overflow:hidden}
+    .meter > i{display:block;height:100%;background:linear-gradient(90deg,var(--accent),#00b6ff);width:0;transition:width 1.1s cubic-bezier(.2,.9,.2,1)}
+
+    /* Projects / highlights */
+    .project{padding:14px;border-radius:8px;background:rgba(8,18,30,0.6);border:1px solid rgba(255,255,255,0.03);display:flex;flex-direction:column;gap:8px;position:relative;z-index:2;box-shadow:inset 0 1px 0 rgba(255,255,255,0.02)}
+
+    /* Footer */
+    footer{margin-top:64px;text-align:center;color:var(--muted);font-size:.9rem;position:relative;z-index:2;padding:28px 0;border-top:1px solid rgba(255,255,255,0.02);background:linear-gradient(180deg,rgba(0,0,0,0.02),transparent)}
+
+    /* Small screens */
+    @media (max-width:980px){.grid{grid-template-columns:1fr}.avatar{width:56px;height:56px}}
+
+    /* Animated floating background shapes */
+    .bg-shape{position:fixed;left:-30%;top:-30%;width:1400px;height:1400px;background:radial-gradient(circle at 30% 30%, rgba(0,120,212,0.14), transparent 30%),conic-gradient(from 0deg,#072d45, #024569);filter:blur(80px);z-index:-1;transform:rotate(0deg);opacity:.28;pointer-events:none;animation:spin 40s linear infinite}
+    .bg-shape.two{right:-30%;left:auto;top:10%;width:1200px;height:1200px;background:radial-gradient(circle at 70% 70%, rgba(0,180,255,0.08),transparent 30%),linear-gradient(180deg,#062331,#05263a);opacity:.18;z-index:-1;filter:blur(72px);animation:spinRev 48s linear infinite}
+    @keyframes spin{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+    @keyframes spinRev{from{transform:rotate(360deg)}to{transform:rotate(0deg)}}
+  </style>
+</head>
+<body>
+  <div class="bg-shape"></div>
+  <div class="bg-shape two"></div>
+  <main class="wrap">
+    <header>
+      <div class="brand">
+        <div class="avatar">NY</div>
+        <div>
+          <h1>Nikhil Yadav</h1>
+          <div class="sub">Software Engineer — Full-stack, Cloud, DevOps</div>
+        </div>
+      </div>
+      <nav aria-label="social">
+        <a class="social" href="https://www.linkedin.com/in/nikhil-yadav-2710/">LinkedIn</a>
+        <a class="social" href="https://github.com/heynik">GitHub</a>
+        <a class="social" href="https://twitter.com/Heynik27">Twitter</a>
+      </nav>
+    </header>
+
+    <section class="grid">
+      <div>
+        <div class="panel hero">
+          <div class="hero-left">
+            <h2>Hello 👋</h2>
+            <p class="lead">I build practical, user-friendly products with clean, maintainable code. I focus on cloud-native apps, infrastructure-as-code, and full-stack development.</p>
+            <!-- socials moved to Contact panel -->
+            <div class="socials" id="socials"></div>
+          </div>
+        </div>
+
+        <div class="panel section" id="about">
+          <h2>About Me</h2>
+          <p>I’m a Software Engineer passionate about solving complex problems and creating digital experiences that make a real impact. Focus areas: web experiences, scalable software, and continuous learning.</p>
+        </div>
+
+        <div class="panel section" id="work">
+          <h2>Work Experience</h2>
+          <ul>
+            <li>🏢 Currently working as a <strong>Software Engineer</strong> — building and improving digital products.</li>
+            <li>🚀 Delivered web features and backend services to improve performance and reliability.</li>
+          </ul>
+        </div>
+
+        <div class="panel section" id="projects">
+          <h2>Selected Projects</h2>
+          <div class="project">
+            <strong>Project A</strong>
+            <div class="muted">Full-stack web app — React, .NET, Azure</div>
+            <p>Built core features and CI/CD pipelines, improved load times by 30%.</p>
+          </div>
+          <div style="height:12px"></div>
+          <div class="project">
+            <strong>Project B</strong>
+            <div class="muted">Infrastructure as Code — Terraform & Bicep</div>
+            <p>Automated environment provisioning and compliance checks.</p>
+          </div>
+        </div>
+      </div>
+
+      <aside>
+        <div class="panel">
+          <h2>Certifications</h2>
+          <div class="badges" title="Certifications">
+            <img alt="AZ-900" title="AZ-900 — Microsoft Azure Fundamentals" src="https://img.shields.io/badge/AZ--900-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+            <img alt="PL-900" title="PL-900 — Microsoft Power Platform Fundamentals" src="https://img.shields.io/badge/PL--900-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+            <img alt="SC-900" title="SC-900 — Microsoft Security, Compliance, and Identity Fundamentals" src="https://img.shields.io/badge/SC--900-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+            <img alt="AI-900" title="AI-900 — Microsoft Azure AI Fundamentals" src="https://img.shields.io/badge/AI--900-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+          </div>
+        </div>
+
+        <div class="panel" style="margin-top:14px">
+          <h2>Tech Stack</h2>
+          <div class="badges" style="margin-bottom:10px">
+            <!-- Languages & Frameworks -->
+            <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+            <img alt=".NET Core" src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+            <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+            <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+            <!-- Frontend -->
+            <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+            <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+            <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" />
+            <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+            <!-- Backend & Cloud -->
+            <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+            <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+            <img alt="SQL" src="https://img.shields.io/badge/SQL-338FBD?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+            <!-- Infra & DevOps -->
+            <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" />
+            <img alt="Azure Bicep" src="https://img.shields.io/badge/Azure%20Bicep-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+            <img alt="ARM" src="https://img.shields.io/badge/ARM%20Templates-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+            <!-- Tools -->
+            <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+            <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+          </div>
+          <!-- Textual skill summary removed (badges above retained) -->
+        </div>
+
+        <div class="panel" style="margin-top:14px">
+          <h2>Contact</h2>
+          <p class="sub">Interested in collaborating? Reach out — links below:</p>
+          <div style="display:flex;gap:8px;margin-top:10px;flex-wrap:wrap">
+            <a class="social" href="https://www.linkedin.com/in/nikhil-yadav-2710/">🔗 LinkedIn</a>
+            <a class="social" href="https://github.com/heynik">🐙 GitHub</a>
+            <a class="social" href="https://twitter.com/Heynik27">🐦 Twitter</a>
+          </div>
+          <!-- Profile summary removed -->
+        </div>
+      </aside>
+    </section>
+
+    <footer>
+      © <span id="year"></span> Nikhil Yadav — Built with care · View on <a href="https://github.com/heynik">GitHub</a>
+    </footer>
+  </main>
+
+  <script>
+    // Small interactive behaviors: set year, animate meters, reveal on scroll
+    document.getElementById('year').textContent = new Date().getFullYear();
+
+    // Animate skill meters when visible
+    function animateMeters(){
+      document.querySelectorAll('.meter i').forEach(i=>{
+        const pct = i.getAttribute('data-pct')||70;
+        i.style.width = pct + '%';
+      })
+    }
+
+    // Simple intersection observer for reveal
+    const obs = new IntersectionObserver(entries=>{
+      entries.forEach(e=>{ if(e.isIntersecting){ e.target.classList.add('in'); } });
+    },{threshold:0.15});
+    // observe panels and reveal those already in view
+    const panels = document.querySelectorAll('.panel,.project');
+    panels.forEach(el=>{
+      obs.observe(el);
+      const r = el.getBoundingClientRect();
+      if(r.top < window.innerHeight * 0.9) el.classList.add('in');
+    });
+    // when in view, apply simple animation; default panels start hidden via CSS
+    const styleSheet = document.createElement('style');
+    styleSheet.innerHTML = '.panel,.project{opacity:0;transform:translateY(10px)} .panel.in{opacity:1;transform:none;transition:all .6s cubic-bezier(.2,.9,.2,1)} .project.in{opacity:1;transform:none;transition:all .6s .08s cubic-bezier(.2,.9,.2,1)}';
+    document.head.appendChild(styleSheet);
+
+    // Start meters when about section appears
+    const aboutObserver = new IntersectionObserver(entries=>{ entries.forEach(e=>{ if(e.isIntersecting){ animateMeters(); aboutObserver.disconnect(); } }) },{threshold:0.2});
+    const aboutEl = document.getElementById('about'); if(aboutEl) aboutObserver.observe(aboutEl);
+
+    // Smooth scroll for internal links (if any)
+    document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener('click',e=>{ e.preventDefault(); document.querySelector(a.getAttribute('href')).scrollIntoView({behavior:'smooth'}); }));
+  </script>
+</body>
+</html>
