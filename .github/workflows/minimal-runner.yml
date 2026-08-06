@@ -1,0 +1,12 @@
+name: Minimal Runner Test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-runner:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check runner
+        run: echo "Runner acquired successfully"
