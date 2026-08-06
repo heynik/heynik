@@ -1,0 +1,26 @@
+theme: jekyll-theme-minimal
+title: Nikhil Yadav
+description: Software Engineer | Full Stack Developer | Azure & .NET Specialist
+show_downloads: false
+google_analytics: false
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Permalink structure
+permalink: /:title/
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:collection/:path/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
