@@ -1,64 +1,124 @@
-### Hi there, I'm Nikhil 👋
+# 👋 Hi, I'm Nikhil Yadav
 
-- 🔭 Software Engineer
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-yadav-2710/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heynik)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Heynik27)
 
+</div>
 
+---
 
+## 💡 About Me
 
-### Connect with me:
+I'm a **Software Engineer** passionate about building practical, user-friendly products with clean, maintainable code. I enjoy solving complex problems and creating digital experiences that make a real impact.
 
-[<img align="left" alt="heynik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="heynik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+**Focused on:** Building modern web experiences | Writing scalable software | Continuous learning
 
-<br />
+---
 
-### Languages and Tools:
+## 💼 Work Experience
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+- 🏢 Currently working as A **Software Engineer**.
+- 🌐 Worked on web development and software engineering tasks
+- 🚀 Built and improved digital products with practical engineering solutions
 
-<br />
-<br />
+---
+
+## 🎓 Education
+
+- 📚 Computer Science / Software Engineering background
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+![AZ-900](https://img.shields.io/badge/AZ--900-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![PL-900](https://img.shields.io/badge/PL--900-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![SC-900](https://img.shields.io/badge/SC--900-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![AI-900](https://img.shields.io/badge/AI--900-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+</div>
+
+- ✅ AZ-900: Microsoft Azure Fundamentals
+- ✅ PL-900: Microsoft Power Platform Fundamentals
+- ✅ SC-900: Microsoft Security, Compliance, and Identity Fundamentals
+- ✅ AI-900: Microsoft Azure AI Fundamentals
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Cloud
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-338FBD?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### Infrastructure & DevOps
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Azure Bicep](https://img.shields.io/badge/Azure%20Bicep-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM%20Templates-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### Developer Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Technical Skills
+
+| Category | Skills |
+|----------|--------|
+| **Backend** | C#, .NET, Node.js, Python |
+| **Frontend** | React, JavaScript, TypeScript, HTML/CSS |
+| **Database** | SQL, MongoDB |
+| **Cloud & DevOps** | Azure, Terraform, Azure Bicep, ARM Templates |
+| **Tools** | Git, GitHub, VS Code |
+
+---
+
+## 🚀 What I'm Focused On
+
+- 🔧 Building robust, scalable cloud-native applications
+- ☁️ Infrastructure as Code with Azure (Bicep, Terraform, ARM)
+- 💻 Full-stack development with .NET and React
+- 📈 Writing clean, maintainable, production-ready code
+- 🎯 Solving real-world problems efficiently
+- 🌱 Staying current with emerging technologies
+
+---
+
+## 📬 Let's Connect!
+
+<div align="center">
+
+**Interested in collaborating? Reach out!**
+
+[LinkedIn](https://www.linkedin.com/in/nikhil-yadav-2710/) • 
+[GitHub](https://github.com/heynik) • 
+[Twitter](https://twitter.com/Heynik27)
 
 ---
 
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Introduction to Web cache poisoning, Part 1](https://medium.com/cyberxerx/introduction-to-web-cache-poisoning-part-1-fe23c35be89e?source=rss-ef116ef8f6f6------2)
-- [Setup Free VPN: OpenVPN for Windows 10](https://medium.com/cyberxerx/setup-free-vpn-openvpn-for-windows-10-d3e7a1b0b889?source=rss-ef116ef8f6f6------2)
-- [USING EXPLOITS IN METASPLOIT: Part 5](https://medium.com/cyberxerx/using-exploits-in-metasploit-part-5-e76929c132d0?source=rss-ef116ef8f6f6------2)
-- [ACTIVE AND PASSIVE EXPLOITS IN METASPLOIT: Part 4](https://medium.com/cyberxerx/active-and-passive-exploits-in-metasploit-part-4-c4f86c7f0f0e?source=rss-ef116ef8f6f6------2)
-- [METASPLOIT MSFCONSOLE: Part 3](https://medium.com/cyberxerx/metasploit-msfconsole-part-3-95aae118c8a7?source=rss-ef116ef8f6f6------2)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-
-<img align="left" alt="Heynik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=heynik&theme=tokyonight&show_icons=true&hide_border=true" />
-
-<br />
-
-<img align="left" alt="Heynik's Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heynik&theme=blue-green&show_icons=true&hide_border=true" />
-
-<br />
-
-
-
-[twitter]: https://twitter.com/Heynik27
-[linkedin]: https://www.linkedin.com/in/nikhil-yadav-5a0a58134/
+</div>

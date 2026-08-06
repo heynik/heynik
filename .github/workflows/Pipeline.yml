@@ -1,0 +1,13 @@
+name: Run Pipeline
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Run pipeline
+        run: echo "Pipeline executed successfully"
+
